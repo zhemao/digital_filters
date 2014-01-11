@@ -1,0 +1,6 @@
+Digital Filters in an IJulia Notebook
+=======================================
+
+This is an exercise in designing digital filters using the Julia programming
+language. It was written based off of information in Steven W. Smith's
+"The Scientist and Engineer's Guide to Digital Signal Processing".
