@@ -1,5 +1,4 @@
 using AudioIO
-using PyPlot
 
 include("filters.jl")
 
